@@ -68,6 +68,6 @@ public class MyUtilities {
                     }
                 });
 
-        Toast.makeText(appContext,"Image Copied", Toast.LENGTH_SHORT).show();
+        Toast.makeText(appContext,"Image Saved", Toast.LENGTH_SHORT).show();
     }
 }
